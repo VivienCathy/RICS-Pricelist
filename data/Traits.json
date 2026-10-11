@@ -8338,7 +8338,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Ideology Expanded - Memes and Structures",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AIRobot_BaseTrait_1": {
@@ -8382,6 +8382,25 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Psycasts Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "AM_Ahimsa_0": {
+    "DefName": "AM_Ahimsa",
+    "Name": "Vow of nonviolence",
+    "Degree": 0,
+    "Description": "A strict principle of nonviolence which applies to all living things.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Alpha Memes",
     "modactive": true,
     "Version": 1
   }

@@ -11953,7 +11953,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatCheckerLeather": {
       "DefName": "LT_DoorMatCheckerLeather",
@@ -11968,7 +11968,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigLeather": {
       "DefName": "LT_DoorMatBigLeather",
@@ -11983,7 +11983,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigCheckerLeather": {
       "DefName": "LT_DoorMatBigCheckerLeather",
@@ -11998,7 +11998,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatRed": {
       "DefName": "LT_DoorMatRed",
@@ -12013,7 +12013,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatOrange": {
       "DefName": "LT_DoorMatOrange",
@@ -12028,7 +12028,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatGreen": {
       "DefName": "LT_DoorMatGreen",
@@ -12043,7 +12043,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatTeal": {
       "DefName": "LT_DoorMatTeal",
@@ -12058,7 +12058,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBlue": {
       "DefName": "LT_DoorMatBlue",
@@ -12073,7 +12073,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigRed": {
       "DefName": "LT_DoorMatBigRed",
@@ -12088,7 +12088,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigOrange": {
       "DefName": "LT_DoorMatBigOrange",
@@ -12103,7 +12103,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigGreen": {
       "DefName": "LT_DoorMatBigGreen",
@@ -12118,7 +12118,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigTeal": {
       "DefName": "LT_DoorMatBigTeal",
@@ -12133,7 +12133,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "LT_DoorMatBigBlue": {
       "DefName": "LT_DoorMatBigBlue",
@@ -12148,7 +12148,7 @@
       "BasePrice": 8,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "RimFridge_SingleRefrigerator": {
       "DefName": "RimFridge_SingleRefrigerator",
@@ -24913,7 +24913,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedHand": {
       "DefName": "VME_FleshcraftedHand",
@@ -24928,7 +24928,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedFinger": {
       "DefName": "VME_FleshcraftedFinger",
@@ -24943,7 +24943,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedToe": {
       "DefName": "VME_FleshcraftedToe",
@@ -24958,7 +24958,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedFoot": {
       "DefName": "VME_FleshcraftedFoot",
@@ -24973,7 +24973,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedLeg": {
       "DefName": "VME_FleshcraftedLeg",
@@ -24988,7 +24988,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedHeart": {
       "DefName": "VME_FleshcraftedHeart",
@@ -25003,7 +25003,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedLung": {
       "DefName": "VME_FleshcraftedLung",
@@ -25018,7 +25018,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedKidney": {
       "DefName": "VME_FleshcraftedKidney",
@@ -25033,7 +25033,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedLiver": {
       "DefName": "VME_FleshcraftedLiver",
@@ -25048,7 +25048,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedEye": {
       "DefName": "VME_FleshcraftedEye",
@@ -25063,7 +25063,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedEar": {
       "DefName": "VME_FleshcraftedEar",
@@ -25078,7 +25078,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedNose": {
       "DefName": "VME_FleshcraftedNose",
@@ -25093,7 +25093,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedJaw": {
       "DefName": "VME_FleshcraftedJaw",
@@ -25108,7 +25108,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedStomach": {
       "DefName": "VME_FleshcraftedStomach",
@@ -25123,7 +25123,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedTongue": {
       "DefName": "VME_FleshcraftedTongue",
@@ -25138,7 +25138,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_FleshcraftedSpine": {
       "DefName": "VME_FleshcraftedSpine",
@@ -25153,7 +25153,7 @@
       "BasePrice": 45,
       "Category": "Natural",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientSystemRack": {
       "DefName": "VME_AncientSystemRack",
@@ -25168,7 +25168,7 @@
       "BasePrice": 5,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientEquipmentBlocks": {
       "DefName": "VME_AncientEquipmentBlocks",
@@ -25183,7 +25183,7 @@
       "BasePrice": 7,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMachine": {
       "DefName": "VME_AncientMachine",
@@ -25198,7 +25198,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientStorageCylinder": {
       "DefName": "VME_AncientStorageCylinder",
@@ -25213,7 +25213,7 @@
       "BasePrice": 7,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientBed": {
       "DefName": "VME_AncientBed",
@@ -25228,7 +25228,7 @@
       "BasePrice": 3,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientDisplayBank": {
       "DefName": "VME_AncientDisplayBank",
@@ -25243,7 +25243,7 @@
       "BasePrice": 5,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientLockerBank": {
       "DefName": "VME_AncientLockerBank",
@@ -25258,7 +25258,7 @@
       "BasePrice": 3,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientCrate": {
       "DefName": "VME_AncientCrate",
@@ -25273,7 +25273,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMilitaryCrate": {
       "DefName": "VME_AncientMilitaryCrate",
@@ -25288,7 +25288,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientSpacerCrate": {
       "DefName": "VME_AncientSpacerCrate",
@@ -25303,7 +25303,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientBarrel": {
       "DefName": "VME_AncientBarrel",
@@ -25318,7 +25318,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientGenerator": {
       "DefName": "VME_AncientGenerator",
@@ -25333,7 +25333,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientOperatingTable": {
       "DefName": "VME_AncientOperatingTable",
@@ -25348,7 +25348,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientShoppingCart": {
       "DefName": "VME_AncientShoppingCart",
@@ -25363,7 +25363,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientPostbox": {
       "DefName": "VME_AncientPostbox",
@@ -25378,7 +25378,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientVendingMachine": {
       "DefName": "VME_AncientVendingMachine",
@@ -25393,7 +25393,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientAirConditioner": {
       "DefName": "VME_AncientAirConditioner",
@@ -25408,7 +25408,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientKitchenSink": {
       "DefName": "VME_AncientKitchenSink",
@@ -25423,7 +25423,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientStove": {
       "DefName": "VME_AncientStove",
@@ -25438,7 +25438,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientOven": {
       "DefName": "VME_AncientOven",
@@ -25453,7 +25453,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientATM": {
       "DefName": "VME_AncientATM",
@@ -25468,7 +25468,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWashingMachine": {
       "DefName": "VME_AncientWashingMachine",
@@ -25483,7 +25483,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientHydrant": {
       "DefName": "VME_AncientHydrant",
@@ -25498,7 +25498,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMicrowave": {
       "DefName": "VME_AncientMicrowave",
@@ -25513,7 +25513,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientToilet": {
       "DefName": "VME_AncientToilet",
@@ -25528,7 +25528,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRefrigerator": {
       "DefName": "VME_AncientRefrigerator",
@@ -25543,7 +25543,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientSmallCrate": {
       "DefName": "VME_AncientSmallCrate",
@@ -25558,7 +25558,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientLongCrate": {
       "DefName": "VME_AncientLongCrate",
@@ -25573,7 +25573,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientLargeCrate": {
       "DefName": "VME_AncientLargeCrate",
@@ -25588,7 +25588,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWheel": {
       "DefName": "VME_AncientWheel",
@@ -25603,7 +25603,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientGiantWheel": {
       "DefName": "VME_AncientGiantWheel",
@@ -25618,7 +25618,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRustedCar": {
       "DefName": "VME_AncientRustedCar",
@@ -25633,7 +25633,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRustedTruck": {
       "DefName": "VME_AncientRustedTruck",
@@ -25648,7 +25648,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRustedJeep": {
       "DefName": "VME_AncientRustedJeep",
@@ -25663,7 +25663,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRustedCarFrame": {
       "DefName": "VME_AncientRustedCarFrame",
@@ -25678,7 +25678,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWarwalkerTorso": {
       "DefName": "VME_AncientWarwalkerTorso",
@@ -25693,7 +25693,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRustedDropship": {
       "DefName": "VME_AncientRustedDropship",
@@ -25708,7 +25708,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWarwalkerClaw": {
       "DefName": "VME_AncientWarwalkerClaw",
@@ -25723,7 +25723,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWarwalkerLeg": {
       "DefName": "VME_AncientWarwalkerLeg",
@@ -25738,7 +25738,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMiniWarwalkerRemains": {
       "DefName": "VME_AncientMiniWarwalkerRemains",
@@ -25753,7 +25753,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWarspiderRemains": {
       "DefName": "VME_AncientWarspiderRemains",
@@ -25768,7 +25768,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientPipelineSection": {
       "DefName": "VME_AncientPipelineSection",
@@ -25783,7 +25783,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWarwalkerFoot": {
       "DefName": "VME_AncientWarwalkerFoot",
@@ -25798,7 +25798,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientTank": {
       "DefName": "VME_AncientTank",
@@ -25813,7 +25813,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientAPC": {
       "DefName": "VME_AncientAPC",
@@ -25828,7 +25828,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientWarwalkerShell": {
       "DefName": "VME_AncientWarwalkerShell",
@@ -25843,7 +25843,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientJetEngine": {
       "DefName": "VME_AncientJetEngine",
@@ -25858,7 +25858,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientDropshipEngine": {
       "DefName": "VME_AncientDropshipEngine",
@@ -25873,7 +25873,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientPodCar": {
       "DefName": "VME_AncientPodCar",
@@ -25888,7 +25888,7 @@
       "BasePrice": 11,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientTankTrap": {
       "DefName": "VME_AncientTankTrap",
@@ -25903,7 +25903,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientLargeRustedEngineBlock": {
       "DefName": "VME_AncientLargeRustedEngineBlock",
@@ -25918,7 +25918,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientFence": {
       "DefName": "VME_AncientFence",
@@ -25933,7 +25933,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRazorWire": {
       "DefName": "VME_AncientRazorWire",
@@ -25948,7 +25948,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientPipes": {
       "DefName": "VME_AncientPipes",
@@ -25963,7 +25963,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMegaCannonTripod": {
       "DefName": "VME_AncientMegaCannonTripod",
@@ -25978,7 +25978,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMegaCannonBarrel": {
       "DefName": "VME_AncientMegaCannonBarrel",
@@ -25993,7 +25993,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientContainer": {
       "DefName": "VME_AncientContainer",
@@ -26008,7 +26008,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMechanoidShell": {
       "DefName": "VME_AncientMechanoidShell",
@@ -26023,7 +26023,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientMechDropBeacon": {
       "DefName": "VME_AncientMechDropBeacon",
@@ -26038,7 +26038,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientSecurityTurret": {
       "DefName": "VME_AncientSecurityTurret",
@@ -26053,7 +26053,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientRustedEngineBlock": {
       "DefName": "VME_AncientRustedEngineBlock",
@@ -26068,7 +26068,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientShipBeacon": {
       "DefName": "VME_AncientShipBeacon",
@@ -26083,7 +26083,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_AncientSpaceJunk": {
       "DefName": "VME_AncientSpaceJunk",
@@ -26098,7 +26098,7 @@
       "BasePrice": 1,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_WickerMan": {
       "DefName": "VME_WickerMan",
@@ -26113,7 +26113,7 @@
       "BasePrice": 107,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_Bonfire": {
       "DefName": "VME_Bonfire",
@@ -26128,7 +26128,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_MechanoidEffigy": {
       "DefName": "VME_MechanoidEffigy",
@@ -26143,7 +26143,7 @@
       "BasePrice": 480,
       "Category": "Security",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_Obelisk": {
       "DefName": "VME_Obelisk",
@@ -26158,7 +26158,7 @@
       "BasePrice": 220,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_TaoistSlab_Medium": {
       "DefName": "VME_TaoistSlab_Medium",
@@ -26173,7 +26173,7 @@
       "BasePrice": 205,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_TaoistSlab_Broad": {
       "DefName": "VME_TaoistSlab_Broad",
@@ -26188,7 +26188,7 @@
       "BasePrice": 305,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_EsotericismSlab_Medium": {
       "DefName": "VME_EsotericismSlab_Medium",
@@ -26203,7 +26203,7 @@
       "BasePrice": 205,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_EsotericismSlab_Broad": {
       "DefName": "VME_EsotericismSlab_Broad",
@@ -26218,7 +26218,7 @@
       "BasePrice": 305,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_EldritchSlab_Medium": {
       "DefName": "VME_EldritchSlab_Medium",
@@ -26233,7 +26233,7 @@
       "BasePrice": 205,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_EldritchSlab_Broad": {
       "DefName": "VME_EldritchSlab_Broad",
@@ -26248,7 +26248,7 @@
       "BasePrice": 305,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_SerketistSlab_Medium": {
       "DefName": "VME_SerketistSlab_Medium",
@@ -26263,7 +26263,7 @@
       "BasePrice": 205,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "VME_SerketistSlab_Broad": {
       "DefName": "VME_SerketistSlab_Broad",
@@ -26278,7 +26278,7 @@
       "BasePrice": 305,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "SBC_BabyCarrier": {
       "DefName": "SBC_BabyCarrier",
@@ -30099,7 +30099,7 @@
       "IsUsable": false,
       "IsEquippable": true,
       "IsWearable": false,
-      "Mod": "Alpha Animals",
+      "Mod": "Alpha Memes",
       "BasePrice": 1,
       "Category": "Weapon",
       "Enabled": true,
@@ -31374,7 +31374,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Alpha Animals",
+      "Mod": "Alpha Memes",
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
@@ -32638,7 +32638,7 @@
       "BasePrice": 650,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_EggColdOneFertilized": {
       "DefName": "DevDesigner_EggColdOneFertilized",
@@ -32653,7 +32653,7 @@
       "BasePrice": 100,
       "Category": "Eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_EggColdOneUnfertilized": {
       "DefName": "DevDesigner_EggColdOneUnfertilized",
@@ -32668,7 +32668,7 @@
       "BasePrice": 100,
       "Category": "Eggs (unfert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_ColdOne": {
       "DefName": "DevDesigner_ColdOne",
@@ -32683,7 +32683,7 @@
       "BasePrice": 1250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_Elves_Chainmail": {
       "DefName": "DevDesigner_Elves_Chainmail",
@@ -32698,7 +32698,7 @@
       "BasePrice": 158,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_Elves_Gambeson": {
       "DefName": "DevDesigner_Elves_Gambeson",
@@ -32713,7 +32713,7 @@
       "BasePrice": 158,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_DreadspearArmor": {
       "DefName": "DevDesigner_DarkElves_DreadspearArmor",
@@ -32728,7 +32728,7 @@
       "BasePrice": 545,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_LeatherArmor": {
       "DefName": "DevDesigner_DarkElves_LeatherArmor",
@@ -32743,7 +32743,7 @@
       "BasePrice": 138,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_ColdOneKnightCloak": {
       "DefName": "DevDesigner_DarkElves_ColdOneKnightCloak",
@@ -32758,7 +32758,7 @@
       "BasePrice": 144,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_ColdOneKnightArmor": {
       "DefName": "DevDesigner_DarkElves_ColdOneKnightArmor",
@@ -32773,7 +32773,7 @@
       "BasePrice": 560,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_BlackGuardCloak": {
       "DefName": "DevDesigner_DarkElves_BlackGuardCloak",
@@ -32788,7 +32788,7 @@
       "BasePrice": 144,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_BlackGuardArmor": {
       "DefName": "DevDesigner_DarkElves_BlackGuardArmor",
@@ -32803,7 +32803,7 @@
       "BasePrice": 565,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Cape": {
       "DefName": "DevDesigner_DarkElves_Cape",
@@ -32818,7 +32818,7 @@
       "BasePrice": 74,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_MorathiRobe": {
       "DefName": "DevDesigner_DarkElves_MorathiRobe",
@@ -32833,7 +32833,7 @@
       "BasePrice": 124,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_MorathiArmor": {
       "DefName": "DevDesigner_DarkElves_MorathiArmor",
@@ -32848,7 +32848,7 @@
       "BasePrice": 275,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_SorceressRobe": {
       "DefName": "DevDesigner_DarkElves_SorceressRobe",
@@ -32863,7 +32863,7 @@
       "BasePrice": 134,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_WitchBikini": {
       "DefName": "DevDesigner_DarkElves_WitchBikini",
@@ -32878,7 +32878,7 @@
       "BasePrice": 124,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_WitchArmor": {
       "DefName": "DevDesigner_DarkElves_WitchArmor",
@@ -32893,7 +32893,7 @@
       "BasePrice": 245,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_SpearmanArmor": {
       "DefName": "DevDesigner_HighElves_SpearmanArmor",
@@ -32908,7 +32908,7 @@
       "BasePrice": 545,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_ShadowWarriorArmor": {
       "DefName": "DevDesigner_HighElves_ShadowWarriorArmor",
@@ -32923,7 +32923,7 @@
       "BasePrice": 545,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Cloak": {
       "DefName": "DevDesigner_HighElves_Cloak",
@@ -32938,7 +32938,7 @@
       "BasePrice": 74,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_WhiteLionPelt": {
       "DefName": "DevDesigner_HighElves_WhiteLionPelt",
@@ -32953,7 +32953,7 @@
       "BasePrice": 74,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_WhiteLionArmor": {
       "DefName": "DevDesigner_HighElves_WhiteLionArmor",
@@ -32968,7 +32968,7 @@
       "BasePrice": 560,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_DragonPrinceArmor": {
       "DefName": "DevDesigner_HighElves_DragonPrinceArmor",
@@ -32983,7 +32983,7 @@
       "BasePrice": 560,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_LordCloak": {
       "DefName": "DevDesigner_HighElves_LordCloak",
@@ -32998,7 +32998,7 @@
       "BasePrice": 152,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_LordArmor": {
       "DefName": "DevDesigner_HighElves_LordArmor",
@@ -33013,7 +33013,7 @@
       "BasePrice": 650,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_AlarielleRobe": {
       "DefName": "DevDesigner_HighElves_AlarielleRobe",
@@ -33028,7 +33028,7 @@
       "BasePrice": 124,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_AlarielleArmor": {
       "DefName": "DevDesigner_HighElves_AlarielleArmor",
@@ -33043,7 +33043,7 @@
       "BasePrice": 275,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Tunic": {
       "DefName": "DevDesigner_WoodElves_Tunic",
@@ -33058,7 +33058,7 @@
       "BasePrice": 129,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_ShamanRobe": {
       "DefName": "DevDesigner_WoodElves_ShamanRobe",
@@ -33073,7 +33073,7 @@
       "BasePrice": 129,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Bikini": {
       "DefName": "DevDesigner_WoodElves_Bikini",
@@ -33088,7 +33088,7 @@
       "BasePrice": 124,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Lioncloth": {
       "DefName": "DevDesigner_WoodElves_Lioncloth",
@@ -33103,7 +33103,7 @@
       "BasePrice": 124,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Corset": {
       "DefName": "DevDesigner_WoodElves_Corset",
@@ -33118,7 +33118,7 @@
       "BasePrice": 124,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_LeatherArmor": {
       "DefName": "DevDesigner_WoodElves_LeatherArmor",
@@ -33133,7 +33133,7 @@
       "BasePrice": 138,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Cloak": {
       "DefName": "DevDesigner_WoodElves_Cloak",
@@ -33148,7 +33148,7 @@
       "BasePrice": 74,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_ShamanCloak": {
       "DefName": "DevDesigner_WoodElves_ShamanCloak",
@@ -33163,7 +33163,7 @@
       "BasePrice": 94,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_StagKnightArmor": {
       "DefName": "DevDesigner_WoodElves_StagKnightArmor",
@@ -33178,7 +33178,7 @@
       "BasePrice": 545,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Scalemail": {
       "DefName": "DevDesigner_WoodElves_Scalemail",
@@ -33193,7 +33193,7 @@
       "BasePrice": 158,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_DreadspearHelmet": {
       "DefName": "DevDesigner_DarkElves_DreadspearHelmet",
@@ -33208,7 +33208,7 @@
       "BasePrice": 230,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_MaskedHoodA": {
       "DefName": "DevDesigner_DarkElves_MaskedHoodA",
@@ -33223,7 +33223,7 @@
       "BasePrice": 114,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_MaskedHoodB": {
       "DefName": "DevDesigner_DarkElves_MaskedHoodB",
@@ -33238,7 +33238,7 @@
       "BasePrice": 114,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_ColdOneKnightHelmet": {
       "DefName": "DevDesigner_DarkElves_ColdOneKnightHelmet",
@@ -33253,7 +33253,7 @@
       "BasePrice": 260,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_BlackGuardHelmet": {
       "DefName": "DevDesigner_DarkElves_BlackGuardHelmet",
@@ -33268,7 +33268,7 @@
       "BasePrice": 270,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_MorathiHelmet": {
       "DefName": "DevDesigner_DarkElves_MorathiHelmet",
@@ -33283,7 +33283,7 @@
       "BasePrice": 230,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_WitchHelmet": {
       "DefName": "DevDesigner_DarkElves_WitchHelmet",
@@ -33298,7 +33298,7 @@
       "BasePrice": 68,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_SorceressHelmet": {
       "DefName": "DevDesigner_DarkElves_SorceressHelmet",
@@ -33313,7 +33313,7 @@
       "BasePrice": 98,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_SpearmanHelmet": {
       "DefName": "DevDesigner_HighElves_SpearmanHelmet",
@@ -33328,7 +33328,7 @@
       "BasePrice": 230,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_ShadowWarriorHelmet": {
       "DefName": "DevDesigner_HighElves_ShadowWarriorHelmet",
@@ -33343,7 +33343,7 @@
       "BasePrice": 260,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_WhiteLionHelmet": {
       "DefName": "DevDesigner_HighElves_WhiteLionHelmet",
@@ -33358,7 +33358,7 @@
       "BasePrice": 260,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_DragonPrinceHelmet": {
       "DefName": "DevDesigner_HighElves_DragonPrinceHelmet",
@@ -33373,7 +33373,7 @@
       "BasePrice": 270,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_LordHelmet": {
       "DefName": "DevDesigner_HighElves_LordHelmet",
@@ -33388,7 +33388,7 @@
       "BasePrice": 295,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_AlarielleHelmet": {
       "DefName": "DevDesigner_HighElves_AlarielleHelmet",
@@ -33403,7 +33403,7 @@
       "BasePrice": 230,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Hood": {
       "DefName": "DevDesigner_WoodElves_Hood",
@@ -33418,7 +33418,7 @@
       "BasePrice": 114,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_MaskedHood": {
       "DefName": "DevDesigner_WoodElves_MaskedHood",
@@ -33433,7 +33433,7 @@
       "BasePrice": 114,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_ArmoredHood": {
       "DefName": "DevDesigner_WoodElves_ArmoredHood",
@@ -33448,7 +33448,7 @@
       "BasePrice": 150,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_StagKnightHelmet": {
       "DefName": "DevDesigner_WoodElves_StagKnightHelmet",
@@ -33463,7 +33463,7 @@
       "BasePrice": 220,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_ShamanCrownB": {
       "DefName": "DevDesigner_WoodElves_ShamanCrownB",
@@ -33478,7 +33478,7 @@
       "BasePrice": 138,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_ShamanCrown": {
       "DefName": "DevDesigner_WoodElves_ShamanCrown",
@@ -33493,7 +33493,7 @@
       "BasePrice": 220,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_BladeDancerHelmetA": {
       "DefName": "DevDesigner_WoodElves_BladeDancerHelmetA",
@@ -33508,7 +33508,7 @@
       "BasePrice": 215,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Spear": {
       "DefName": "DevDesigner_DarkElves_Spear",
@@ -33523,7 +33523,7 @@
       "BasePrice": 230,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Greatsword": {
       "DefName": "DevDesigner_DarkElves_Greatsword",
@@ -33538,7 +33538,7 @@
       "BasePrice": 385,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Halberd": {
       "DefName": "DevDesigner_DarkElves_Halberd",
@@ -33553,7 +33553,7 @@
       "BasePrice": 230,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Sword": {
       "DefName": "DevDesigner_DarkElves_Sword",
@@ -33568,7 +33568,7 @@
       "BasePrice": 265,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Dagger": {
       "DefName": "DevDesigner_DarkElves_Dagger",
@@ -33583,7 +33583,7 @@
       "BasePrice": 132,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Spear": {
       "DefName": "DevDesigner_HighElves_Spear",
@@ -33598,7 +33598,7 @@
       "BasePrice": 230,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Greatsword": {
       "DefName": "DevDesigner_HighElves_Greatsword",
@@ -33613,7 +33613,7 @@
       "BasePrice": 385,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Greataxe": {
       "DefName": "DevDesigner_HighElves_Greataxe",
@@ -33628,7 +33628,7 @@
       "BasePrice": 330,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_AlarielleStaff": {
       "DefName": "DevDesigner_WoodElves_AlarielleStaff",
@@ -33643,7 +33643,7 @@
       "BasePrice": 290,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Sword": {
       "DefName": "DevDesigner_HighElves_Sword",
@@ -33658,7 +33658,7 @@
       "BasePrice": 265,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Longsword": {
       "DefName": "DevDesigner_HighElves_Longsword",
@@ -33673,7 +33673,7 @@
       "BasePrice": 265,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Spear": {
       "DefName": "DevDesigner_WoodElves_Spear",
@@ -33688,7 +33688,7 @@
       "BasePrice": 230,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_ShamanStaff": {
       "DefName": "DevDesigner_WoodElves_ShamanStaff",
@@ -33703,7 +33703,7 @@
       "BasePrice": 200,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Sword": {
       "DefName": "DevDesigner_WoodElves_Sword",
@@ -33718,7 +33718,7 @@
       "BasePrice": 265,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Axe": {
       "DefName": "DevDesigner_WoodElves_Axe",
@@ -33733,7 +33733,7 @@
       "BasePrice": 177,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Greatsword": {
       "DefName": "DevDesigner_WoodElves_Greatsword",
@@ -33748,7 +33748,7 @@
       "BasePrice": 385,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Greataxe": {
       "DefName": "DevDesigner_WoodElves_Greataxe",
@@ -33763,7 +33763,7 @@
       "BasePrice": 320,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_BlackGuardPauldrons": {
       "DefName": "DevDesigner_DarkElves_BlackGuardPauldrons",
@@ -33778,7 +33778,7 @@
       "BasePrice": 166,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_MorathiPauldrons": {
       "DefName": "DevDesigner_DarkElves_MorathiPauldrons",
@@ -33793,7 +33793,7 @@
       "BasePrice": 166,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_ShadowWarriorPauldrons": {
       "DefName": "DevDesigner_HighElves_ShadowWarriorPauldrons",
@@ -33808,7 +33808,7 @@
       "BasePrice": 125,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_DragonPrincePauldrons": {
       "DefName": "DevDesigner_HighElves_DragonPrincePauldrons",
@@ -33823,7 +33823,7 @@
       "BasePrice": 166,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_LordPauldrons": {
       "DefName": "DevDesigner_HighElves_LordPauldrons",
@@ -33838,7 +33838,7 @@
       "BasePrice": 173,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_StagKnightPauldrons": {
       "DefName": "DevDesigner_WoodElves_StagKnightPauldrons",
@@ -33853,7 +33853,7 @@
       "BasePrice": 125,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Crossbow": {
       "DefName": "DevDesigner_DarkElves_Crossbow",
@@ -33868,7 +33868,7 @@
       "BasePrice": 235,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Bow": {
       "DefName": "DevDesigner_WoodElves_Bow",
@@ -33883,7 +33883,7 @@
       "BasePrice": 137,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Greatbow": {
       "DefName": "DevDesigner_WoodElves_Greatbow",
@@ -33898,7 +33898,7 @@
       "BasePrice": 220,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_RecurveBow": {
       "DefName": "DevDesigner_WoodElves_RecurveBow",
@@ -33913,7 +33913,7 @@
       "BasePrice": 270,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Longbow": {
       "DefName": "DevDesigner_HighElves_Longbow",
@@ -33928,7 +33928,7 @@
       "BasePrice": 230,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Shield": {
       "DefName": "DevDesigner_WoodElves_Shield",
@@ -33943,7 +33943,7 @@
       "BasePrice": 193,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Shield": {
       "DefName": "DevDesigner_HighElves_Shield",
@@ -33958,7 +33958,7 @@
       "BasePrice": 193,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_DragonPrinceShield": {
       "DefName": "DevDesigner_HighElves_DragonPrinceShield",
@@ -33973,7 +33973,7 @@
       "BasePrice": 193,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Shield": {
       "DefName": "DevDesigner_DarkElves_Shield",
@@ -33988,7 +33988,7 @@
       "BasePrice": 193,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_AncientDeerWool": {
       "DefName": "DevDesigner_AncientDeerWool",
@@ -34003,7 +34003,7 @@
       "BasePrice": 3,
       "Category": "Wools",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_HighElves_Quiver": {
       "DefName": "DevDesigner_HighElves_Quiver",
@@ -34018,7 +34018,7 @@
       "BasePrice": 143,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_DarkElves_Quiver": {
       "DefName": "DevDesigner_DarkElves_Quiver",
@@ -34033,7 +34033,7 @@
       "BasePrice": 143,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Boots": {
       "DefName": "DevDesigner_WoodElves_Boots",
@@ -34048,7 +34048,7 @@
       "BasePrice": 104,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DevDesigner_WoodElves_Gloves": {
       "DefName": "DevDesigner_WoodElves_Gloves",
@@ -34063,7 +34063,7 @@
       "BasePrice": 104,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_AA_ArcticLion": {
       "DefName": "Meat_AA_ArcticLion",
@@ -34378,7 +34378,7 @@
       "BasePrice": 2,
       "Category": "Meat",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_DevDesigner_ColdOne": {
       "DefName": "Meat_DevDesigner_ColdOne",
@@ -34393,7 +34393,7 @@
       "BasePrice": 2,
       "Category": "Meat",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Psytrainer_AAVPE_VenomSpit": {
       "DefName": "Psytrainer_AAVPE_VenomSpit",
@@ -34917,6 +34917,1191 @@
       "Mod": "Alpha Animals",
       "BasePrice": 1700,
       "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AA_OcularCactus": {
+      "DefName": "AA_OcularCactus",
+      "CustomName": "Ocular cactus",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Animals",
+      "BasePrice": 250,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "VERI_HerbalSunscreen": {
+      "DefName": "VERI_HerbalSunscreen",
+      "CustomName": "Herbal salve",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 75,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Albinism Gene",
+      "BasePrice": 22,
+      "Category": "Medicine",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicBed": {
+      "DefName": "AM_CubicBed",
+      "CustomName": "Cubic bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleCubicBed": {
+      "DefName": "AM_DoubleCubicBed",
+      "CustomName": "Double cubic bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 175,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicHospitalBed": {
+      "DefName": "AM_CubicHospitalBed",
+      "CustomName": "Cubic hospital bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 400,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianBed": {
+      "DefName": "AM_HoraxianBed",
+      "CustomName": "Horaxian bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleHoraxianBed": {
+      "DefName": "AM_DoubleHoraxianBed",
+      "CustomName": "Double horaxian bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 175,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicSlab_Medium": {
+      "DefName": "AM_CubicSlab_Medium",
+      "CustomName": "Cubic slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicSlab_Broad": {
+      "DefName": "AM_CubicSlab_Broad",
+      "CustomName": "Cubic slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FleshSlab_Medium": {
+      "DefName": "AM_FleshSlab_Medium",
+      "CustomName": "Flesh slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FleshSlab_Broad": {
+      "DefName": "AM_FleshSlab_Broad",
+      "CustomName": "Flesh slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianSlab_Medium": {
+      "DefName": "AM_HoraxianSlab_Medium",
+      "CustomName": "Horaxian slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianSlab_Broad": {
+      "DefName": "AM_HoraxianSlab_Broad",
+      "CustomName": "Horaxian slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Pyramid": {
+      "DefName": "AM_Pyramid",
+      "CustomName": "Pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 2880,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_GrandGate": {
+      "DefName": "AM_GrandGate",
+      "CustomName": "Grand gate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 1070,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FuturisticObelisk": {
+      "DefName": "AM_FuturisticObelisk",
+      "CustomName": "Futuristic obelisk",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 835,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FuturisticStele": {
+      "DefName": "AM_FuturisticStele",
+      "CustomName": "Futuristic stele",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 835,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FuturisticPyramid": {
+      "DefName": "AM_FuturisticPyramid",
+      "CustomName": "Futuristic great pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 17880,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_GreatPyramid": {
+      "DefName": "AM_GreatPyramid",
+      "CustomName": "Great pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 19440,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Sphynx": {
+      "DefName": "AM_Sphynx",
+      "CustomName": "Sphinx",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 9720,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Megalith": {
+      "DefName": "AM_Megalith",
+      "CustomName": "Megalith",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 1170,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MesoamericanPyramid": {
+      "DefName": "AM_MesoamericanPyramid",
+      "CustomName": "Mesoamerican pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 19440,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_StoneBedroll": {
+      "DefName": "AM_StoneBedroll",
+      "CustomName": "Stone-framed bedroll",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 95,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleStoneBedroll": {
+      "DefName": "AM_DoubleStoneBedroll",
+      "CustomName": "Double stone-framed bedroll",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 177,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientBed": {
+      "DefName": "AM_AncientBed",
+      "CustomName": "Restored ancient bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 63,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientDoubleBed": {
+      "DefName": "AM_AncientDoubleBed",
+      "CustomName": "Restored ancient double bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 145,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientOperatingTable": {
+      "DefName": "AM_AncientOperatingTable",
+      "CustomName": "Restored ancient operating table",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 390,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientLockerBank": {
+      "DefName": "AM_AncientLockerBank",
+      "CustomName": "Ancient locker bank",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 255,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_1x2c": {
+      "DefName": "AM_Neolithic_StoneTable_1x2c",
+      "CustomName": "Crude stone table (1x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 59,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_2x2c": {
+      "DefName": "AM_Neolithic_StoneTable_2x2c",
+      "CustomName": "Crude stone table (2x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 105,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_2x4c": {
+      "DefName": "AM_Neolithic_StoneTable_2x4c",
+      "CustomName": "Crude stone table (2x4)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 200,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_3x3c": {
+      "DefName": "AM_Neolithic_StoneTable_3x3c",
+      "CustomName": "Crude stone table (3x3)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 210,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_1x2c": {
+      "DefName": "AM_Neolithic_WoodenTable_1x2c",
+      "CustomName": "Crude wooden table (1x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 59,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_2x2c": {
+      "DefName": "AM_Neolithic_WoodenTable_2x2c",
+      "CustomName": "Crude wooden table (2x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 105,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_2x4c": {
+      "DefName": "AM_Neolithic_WoodenTable_2x4c",
+      "CustomName": "Crude wooden table (2x4)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 200,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_3x3c": {
+      "DefName": "AM_Neolithic_WoodenTable_3x3c",
+      "CustomName": "Crude wooden table (3x3)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 210,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_EatingMat": {
+      "DefName": "AM_EatingMat",
+      "CustomName": "Eating mat (2x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 35,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_TrapBlunt": {
+      "DefName": "AM_TrapBlunt",
+      "CustomName": "Blunt trap",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 67,
+      "Category": "Security",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AnimalDatabase": {
+      "DefName": "AM_AnimalDatabase",
+      "CustomName": "Animal database",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 93,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Apparel_Eyepatch": {
+      "DefName": "AM_Apparel_Eyepatch",
+      "CustomName": "Eyepatch",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Alpha Memes",
+      "BasePrice": 24,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JewishSlab_Medium": {
+      "DefName": "AM_JewishSlab_Medium",
+      "CustomName": "Jewish slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JewishSlab_Broad": {
+      "DefName": "AM_JewishSlab_Broad",
+      "CustomName": "Jewish slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_KemeticSlab_Medium": {
+      "DefName": "AM_KemeticSlab_Medium",
+      "CustomName": "Kemetic slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_KemeticSlab_Broad": {
+      "DefName": "AM_KemeticSlab_Broad",
+      "CustomName": "Kemetic slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HinduSlab_Medium": {
+      "DefName": "AM_HinduSlab_Medium",
+      "CustomName": "Hindu slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HinduSlab_Broad": {
+      "DefName": "AM_HinduSlab_Broad",
+      "CustomName": "Hindu slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SteampunkSlab_Medium": {
+      "DefName": "AM_SteampunkSlab_Medium",
+      "CustomName": "Steampunk slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SteampunkSlab_Broad": {
+      "DefName": "AM_SteampunkSlab_Broad",
+      "CustomName": "Steampunk slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CorsairSlab_Medium": {
+      "DefName": "AM_CorsairSlab_Medium",
+      "CustomName": "Corsair slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CorsairSlab_Broad": {
+      "DefName": "AM_CorsairSlab_Broad",
+      "CustomName": "Corsair slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JainSlab_Medium": {
+      "DefName": "AM_JainSlab_Medium",
+      "CustomName": "Jain slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JainSlab_Broad": {
+      "DefName": "AM_JainSlab_Broad",
+      "CustomName": "Jain slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SikhSlab_Medium": {
+      "DefName": "AM_SikhSlab_Medium",
+      "CustomName": "Sikh slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SikhSlab_Broad": {
+      "DefName": "AM_SikhSlab_Broad",
+      "CustomName": "Sikh slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_IslamicSlab_Medium": {
+      "DefName": "AM_IslamicSlab_Medium",
+      "CustomName": "Islamic slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_IslamicSlab_Broad": {
+      "DefName": "AM_IslamicSlab_Broad",
+      "CustomName": "Islamic slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_ChristianSlab_Medium": {
+      "DefName": "AM_ChristianSlab_Medium",
+      "CustomName": "Christian slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_ChristianSlab_Broad": {
+      "DefName": "AM_ChristianSlab_Broad",
+      "CustomName": "Christian slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BuddhistSlab_Medium": {
+      "DefName": "AM_BuddhistSlab_Medium",
+      "CustomName": "Buddhist slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BuddhistSlab_Broad": {
+      "DefName": "AM_BuddhistSlab_Broad",
+      "CustomName": "Buddhist slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MesoamericanSlab_Medium": {
+      "DefName": "AM_MesoamericanSlab_Medium",
+      "CustomName": "Mesoamerican slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MesoamericanSlab_Broad": {
+      "DefName": "AM_MesoamericanSlab_Broad",
+      "CustomName": "Mesoamerican slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MesoamericanRug_Medium": {
+      "DefName": "AM_MesoamericanRug_Medium",
+      "CustomName": "Mesoamerican rug (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 154,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MesoamericanRug_Broad": {
+      "DefName": "AM_MesoamericanRug_Broad",
+      "CustomName": "Mesoamerican rug (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 230,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BlocksPristineLimestone": {
+      "DefName": "AM_BlocksPristineLimestone",
+      "CustomName": "Pristine limestone blocks",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 1,
+      "Category": "Stone blocks",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_UnshackledDryad": {
+      "DefName": "AM_UnshackledDryad",
+      "CustomName": "Unshackled dryad",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 250,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SkyBurialSpot": {
+      "DefName": "AM_SkyBurialSpot",
+      "CustomName": "Sky burial spot",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 86,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Urn": {
+      "DefName": "AM_Urn",
+      "CustomName": "Urn",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 42,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MummyMale": {
+      "DefName": "AM_MummyMale",
+      "CustomName": "Mummified",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 118,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MummyFemale": {
+      "DefName": "AM_MummyFemale",
+      "CustomName": "Mummified",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 118,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "XR_Elf_Circlet": {
+      "DefName": "XR_Elf_Circlet",
+      "CustomName": "Circlet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 67,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "XR_Elf_Cowl": {
+      "DefName": "XR_Elf_Cowl",
+      "CustomName": "Cowl",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 70,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "XR_Elf_Mantle": {
+      "DefName": "XR_Elf_Mantle",
+      "CustomName": "Mantle",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 171,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "XR_Mithsilk": {
+      "DefName": "XR_Mithsilk",
+      "CustomName": "Mithsilk",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 8,
+      "Category": "Textiles",
+      "Enabled": true,
+      "modactive": true
+    },
+    "XR_Blessed_Songbow": {
+      "DefName": "XR_Blessed_Songbow",
+      "CustomName": "Songbow",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 200,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "XR_Blessed_Saber": {
+      "DefName": "XR_Blessed_Saber",
+      "CustomName": "Saber",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 200,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "LE_Mimic": {
+      "DefName": "LE_Mimic",
+      "CustomName": "Mimic",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Leo - Events",
+      "BasePrice": 1200,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicCrib": {
+      "DefName": "AM_CubicCrib",
+      "CustomName": "Cubic crib",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "RimWorld",
+      "BasePrice": 51,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Techprint_XR_Elven_Lore": {
+      "DefName": "Techprint_XR_Elven_Lore",
+      "CustomName": "Techprint (Divine Lore)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Elves of the Rim",
+      "BasePrice": 1000,
+      "Category": "Techprints",
       "Enabled": true,
       "modactive": true
     }

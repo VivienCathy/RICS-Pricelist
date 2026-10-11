@@ -1,12 +1,12 @@
 {
-  "exportedAt": "2026-07-22T19:51:16.0038660Z",
-  "totalActiveMods": 136,
+  "exportedAt": "2026-10-11T19:03:18.3923372Z",
+  "totalActiveMods": 145,
   "mods": [
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": null
+      "version": "1.51.0"
     },
     {
       "author": "Orion",
@@ -45,6 +45,12 @@
       "version": null
     },
     {
+      "author": "Oganesson",
+      "name": "[Og] Recruit Guest",
+      "steamId": "3719628649",
+      "version": null
+    },
+    {
       "author": "S16",
       "name": "[S16] Royalty Weapons HD",
       "steamId": "2826282032",
@@ -66,12 +72,6 @@
       "author": "Wyr3d",
       "name": "[WYD] Better Visitor Trades",
       "steamId": "3487419548",
-      "version": null
-    },
-    {
-      "author": "DevDesigner,  MisterM",
-      "name": "ↁ Elves (Continued)",
-      "steamId": "3272603920",
       "version": null
     },
     {
@@ -108,6 +108,12 @@
       "author": "Sarg Bjornson,  AFriend",
       "name": "Alpha Animals",
       "steamId": "1541721856",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson,  Helixien,  Cassie,  Allie",
+      "name": "Alpha Memes",
+      "steamId": "2661356814",
       "version": null
     },
     {
@@ -207,12 +213,6 @@
       "version": "1.6.1"
     },
     {
-      "author": "ferny",
-      "name": "Chester Choose - Progression Storytellers",
-      "steamId": "3761449697",
-      "version": null
-    },
-    {
       "author": "Leo39994",
       "name": "Clean Command Bar",
       "steamId": "3688400757",
@@ -273,9 +273,9 @@
       "version": null
     },
     {
-      "author": "Woolyung",
-      "name": "Do The Rituals Yourselves",
-      "steamId": "3511385838",
+      "author": "dracoix",
+      "name": "Door Mat",
+      "steamId": "1505423207",
       "version": null
     },
     {
@@ -288,6 +288,12 @@
       "author": "EdB",
       "name": "EdB Prepare Carefully",
       "steamId": "735106432",
+      "version": null
+    },
+    {
+      "author": "Bean",
+      "name": "Elves of the Rim",
+      "steamId": "2937954758",
       "version": null
     },
     {
@@ -384,7 +390,7 @@
       "author": "Turnovus",
       "name": "Integrated Xenotypes",
       "steamId": "2888056643",
-      "version": "1.2.1"
+      "version": "1.2.2"
     },
     {
       "author": "Jaxe",
@@ -393,7 +399,7 @@
       "version": null
     },
     {
-      "author": "turkler",
+      "author": "rosaline",
       "name": "Intimacy - Friends n' Lovers",
       "steamId": "3498422643",
       "version": null
@@ -423,10 +429,22 @@
       "version": null
     },
     {
-      "author": "Mlie",
+      "author": "Leo39994",
+      "name": "Leo - Events",
+      "steamId": "3730168769",
+      "version": null
+    },
+    {
+      "author": "Dazz Aephiex",
       "name": "Less Stupid Romance Attempt (Continued)",
       "steamId": "2014603702",
-      "version": "1.6.1"
+      "version": "1.6.2"
+    },
+    {
+      "author": "krafs",
+      "name": "Level Up!",
+      "steamId": "1701592470",
+      "version": "5.3.2"
     },
     {
       "author": "bsandyh",
@@ -438,6 +456,12 @@
       "author": "m00nl1ght",
       "name": "Map Preview",
       "steamId": "2800857642",
+      "version": null
+    },
+    {
+      "author": "rabiosus",
+      "name": "Mine Sight",
+      "steamId": "3769804600",
       "version": null
     },
     {
@@ -465,6 +489,12 @@
       "version": null
     },
     {
+      "author": "OELS",
+      "name": "NANAME Floors",
+      "steamId": "3293767181",
+      "version": null
+    },
+    {
       "author": "Andromeda",
       "name": "Nice Short Female Hairs",
       "steamId": "3316363751",
@@ -474,6 +504,12 @@
       "author": "_baseplate",
       "name": "No Animal Filth!",
       "steamId": "3502920947",
+      "version": null
+    },
+    {
+      "author": "ferny",
+      "name": "No Modlist on Loading",
+      "steamId": "3618480405",
       "version": null
     },
     {
@@ -492,7 +528,7 @@
       "author": "Karew",
       "name": "Orc Clan + Xenotype",
       "steamId": "3232348025",
-      "version": "1.0.2"
+      "version": "1.1.0"
     },
     {
       "author": "Taranchuk",
@@ -504,6 +540,12 @@
       "author": "Mehni",
       "name": "Pick Up And Haul",
       "steamId": "1279012058",
+      "version": null
+    },
+    {
+      "author": "TwoPenny",
+      "name": "Portraits of the Rim",
+      "steamId": "2937991425",
       "version": null
     },
     {
@@ -519,6 +561,12 @@
       "version": null
     },
     {
+      "author": "Legator",
+      "name": "Prisoner Realism",
+      "steamId": "3760196312",
+      "version": null
+    },
+    {
       "author": "DawnsGlow",
       "name": "Quality Colors (Continued)",
       "steamId": "3513846773",
@@ -528,7 +576,7 @@
       "author": "Hatti, pkp24",
       "name": "QualityBuilder Unofficial 1.6",
       "steamId": "3512466087",
-      "version": null
+      "version": "1.6.013"
     },
     {
       "author": "The White Crayon (Updated for 1.1 by Ogliss)",
@@ -651,6 +699,12 @@
       "version": "1.6.1"
     },
     {
+      "author": "ChaoticEnrico",
+      "name": "Smooth Terrain",
+      "steamId": "3502765685",
+      "version": null
+    },
+    {
       "author": "Krelinos",
       "name": "Social Experience from Trade",
       "steamId": "3400608063",
@@ -753,9 +807,9 @@
       "version": null
     },
     {
-      "author": "Oskar Potocki,  Sarg Bjornson",
-      "name": "Vanilla Ideology Expanded - Icons and Symbols",
-      "steamId": "2552609458",
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Ideology Expanded - Memes and Structures",
+      "steamId": "2636329500",
       "version": null
     },
     {
