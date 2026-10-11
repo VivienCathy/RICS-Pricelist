@@ -274,11 +274,13 @@ processRacesData(racesObject) {
         }));
     }
 
-    /** Show every command (enabled and disabled) with full sub-settings. */
+    /** Show every command (enabled and disabled) with full sub-settings.
+     *  Skip bot-only / internal commands marked ExcludeFromPricelist in RICS export. */
     processCommandsData(commandsObject) {
         return Object.entries(commandsObject || {})
             .map(([key, cmd]) => {
                 const customSettings = this.parseCustomData(cmd.CustomData);
+                const excludeFromPricelist = cmd.ExcludeFromPricelist === true || cmd.excludeFromPricelist === true;
                 return {
                     defName: key,
                     name: key,
@@ -293,6 +295,7 @@ processRacesData(racesObject) {
                     commandAlias: cmd.CommandAlias || '',
                     useCommandCooldown: cmd.useCommandCooldown === true,
                     maxUsesPerCooldownPeriod: cmd.MaxUsesPerCooldownPeriod ?? 0,
+                    excludeFromPricelist,
                     allowedRaidTypes: Array.isArray(cmd.AllowedRaidTypes) ? cmd.AllowedRaidTypes : [],
                     allowedRaidStrategies: Array.isArray(cmd.AllowedRaidStrategies) ? cmd.AllowedRaidStrategies : [],
                     // Legacy top-level fields (older exports); preferred source is CustomData JSON
@@ -309,6 +312,7 @@ processRacesData(racesObject) {
                     customSettings
                 };
             })
+            .filter(cmd => !cmd.excludeFromPricelist)
             .sort((a, b) => a.name.localeCompare(b.name));
     }
 

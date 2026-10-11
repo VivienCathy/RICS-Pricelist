@@ -19,7 +19,7 @@ A GitHub Pages site for displaying RICS mod purchase lists.
    - `CommandSettings.json`       ← **Commands** tab (all chat commands + settings)
    - `ActiveMods.json`            ← automatically generated on every game start
 
-4. Your price list will be available at `https://yourusername.github.io/rics-pricelist/`
+4. Your price list will be available at `https://yourusername.github.io/RICS-pricelist/`
 
 ### Customization
 - Edit `index.html` to change the title or layout
